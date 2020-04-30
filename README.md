@@ -24,5 +24,5 @@ Em **SINRReport.csv**:
 
 ## Contato
 Gostou do meu trabalho? Tem sugestões, críticas ou conselhos? Você pode me achar aqui:
-- Email: [patrickluizdearaujo@gmail.com](patrickluizdearaujo@gmail.com).
+- Email: patrickluizdearaujo@gmail.com.
 - [LinkedIn](https://www.linkedin.com/in/patrick-luiz-de-ara%C3%BAjo-b91565131/).
