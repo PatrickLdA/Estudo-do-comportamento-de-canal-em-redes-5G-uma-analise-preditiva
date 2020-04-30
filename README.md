@@ -1,4 +1,4 @@
-# Estudo-do-comportamento-de-canal-em-redes-5G-uma-analise-preditiva
+# Estudo do comportamento de canal em redes 5G: uma analise preditiva
 ## Introdução
 Scripts e dados usados na defesa do TCC "Estudo do comportamento de canal em redes 5G: uma análise preditiva", pela Universidade Federal de Uberlândia. O trabalho completo pode ser encontrado [aqui](https://repositorio.ufu.br/handle/123456789/26151).
 
