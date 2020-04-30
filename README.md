@@ -7,6 +7,8 @@ Um parâmetro que passa a ser particularmente importante no dimensionamento das 
 
 ## Arquivos
 O arquivo **TCC.ipynb** contém todo o trabalho desenvolvido. Nas pastas *Seed_7*, *Seed_8*, *Seed_9* e *Seed_10* estão os relatórios usados nas análises. Dentro de cada uma: 2 arquivos csv contém os dados brutos e na pasta *Adaptação* os dados tratados e prontos para serem usados.
+Os demais arquivos são oriundos das simulações e não são críticos para o entendimento e a execução, sendo criados em toda a execução do código.
+
 
 
 ## Bases de dados
